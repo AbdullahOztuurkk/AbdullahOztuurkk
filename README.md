@@ -10,7 +10,7 @@
 
 <br>
 
-👨‍💻 Fullstack Developer  
+👨‍💻 Software Developer  
 👨‍🎓 Studying Computer Science here in Turkey  
 
 ⭐️ From [Abdullah](https://github.com/AbdullahOztuurkk)
