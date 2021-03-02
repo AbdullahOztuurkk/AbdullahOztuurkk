@@ -1,5 +1,8 @@
-<h2 align="center">Hi 👋, I'm Abdullah Öztürk</h2>
-<h3 align="center">👨‍💻 A Software developer</h3>
+<p align="center">
+	<img width="95%" src="./img/about.png"></img>
+</p>
+
+<h3 align="center">Hi 👋, I'm Abdullah Öztürk</h3>
 
 - 🔭 I’m currently working on [Rent-A-Car](github.com/AbdullahOztuurkk/Rent-A-Car-Project)
 
