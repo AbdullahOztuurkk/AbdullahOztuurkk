@@ -4,11 +4,11 @@
 
 <h3 align="center">Hi 👋, I'm Abdullah Öztürk</h3>
 
-- 🔭 I’m currently working on [Rent-A-Car](github.com/AbdullahOztuurkk/Rent-A-Car-Project)
+- 🔭 I’m currently working on [Rent-A-Car](https://github.com/AbdullahOztuurkk/Rent-A-Car-Project)
 
-- 👨‍💻 All of my projects are available at [Github](github.com/AbdullahOztuurkk)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/AbdullahOztuurkk)
 
-- 📝 I regularly write articles on [Medium](medium.com/@abdullahozturkk)
+- 📝 I regularly write articles on [Medium](https://medium.com/@abdullahozturkk)
 
 - 📫 You can reach me on anywhere
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=AbdullahOztuurkk&show_icons=true">
