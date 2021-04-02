@@ -1,7 +1,3 @@
-<p align="center">
-	<img width="95%" src="./img/about.png"></img>
-</p>
-
 <h3 align="center">Hi 👋, I'm Abdullah Öztürk</h3>
 
 - 🔭 I’m currently working on [Rent-A-Car](https://github.com/AbdullahOztuurkk/Rent-A-Car-Project)
