@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm Abdullah Öztürk</h3>
 
-- 🔭 I’m currently working on [Rent-A-Car](https://github.com/AbdullahOztuurkk/Rent-A-Car-Project)
+- 🔭 I’m currently working on [NonAsk](https://github.com/nonAsk-Startup)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/AbdullahOztuurkk)
 
