@@ -27,23 +27,4 @@
     <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
     <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
     <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
-
 </p>
-
-
-
-<a href="https://twitter.com/abdullahoztuurk">
-  <img align="left" alt="Abdullah's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/moer.tel/">
-  <img align="left" alt="Abdullah's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://linkedin.com/in/abdullah-ozturk">
-  <img align="left" alt="Abdullah's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:oabdullahozturk@yandex.com.tr">
-  <img align="left" alt="Abdullah's Mail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
-</a>
-<a href="https://medium.com/@abdullahozturkk">
-  <img align="left" alt="Abdullah's Medium" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
-</a>
