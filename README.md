@@ -26,8 +26,7 @@
     <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
     <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
 </p>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=AbdullahOztuurkk&show_icons=true">
+
+<br/>
+
+<img style='margin-top:30px' src="https://github-readme-stats.vercel.app/api?username=AbdullahOztuurkk&show_icons=true">
