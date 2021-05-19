@@ -6,6 +6,8 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@abdullahozturkk)
 
+- ❤ I love to discover open projects and contribute them
+
 - 📫 You can reach me on anywhere
 
 ### Contact with me:
@@ -31,3 +33,4 @@
 
  ### About Me
 <img style='margin-top:30px' src="https://github-readme-stats.vercel.app/api?username=AbdullahOztuurkk&show_icons=true">
+
