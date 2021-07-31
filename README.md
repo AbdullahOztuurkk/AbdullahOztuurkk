@@ -1,22 +1,18 @@
 <h3 align="center">Hi 👋, I'm Abdullah Öztürk</h3>
 
-- 🔭 I’m currently working on [NonAsk](https://github.com/nonAsk-Startup)
+- 🔭 I’m currently working on [NonAsk](nonask)
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/AbdullahOztuurkk)
-
-- 📝 I regularly write articles on [Medium](https://medium.com/@abdullahozturkk)
+- 📝 I regularly write articles on [Medium][medium]
 
 - ❤ I love to discover open projects and contribute them
 
 - 📫 You can reach me on anywhere
 
-### Contact with me:
-[<img align="left" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://www.linkedin.com/in/abdullah-ozturk)
-[<img align="left" alt="Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg">](https://abdullahozturkk.medium.com/)
-[<img align="left" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />](https://www.instagram.com/abdullah_oztuurkk/)
-[<img align="left" alt="Gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">](mailto:oabdullahozturk@yandex.com.tr)
-
-<br/>
+### Contact with me
+[<img align="center" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
+[<img align="left" alt="Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg">][medium]
+[<img align="left" alt="Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
+[<img align="left" alt="Gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">][email]
 
 ### Languages and Tools 
 <p align="left">
@@ -36,3 +32,11 @@
  ### About Me
 <img style='margin-top:30px' src="https://github-readme-stats.vercel.app/api?username=AbdullahOztuurkk&show_icons=true">
 
+<!--
+LINKS
+-->
+[twitter]:  https://twitter.com/AbdullahOztuurk
+[email]:    mailto:oabdullahozturk@yandex.com
+[linkedin]: https://www.linkedin.com/in/abdullah-ozturk
+[medium]:   https://abdullahozturkk.medium.com/
+[nonask]:   https://github.com/nonAsk-Startup
