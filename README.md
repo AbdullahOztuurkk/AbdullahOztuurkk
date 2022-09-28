@@ -23,7 +23,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bradtraversy&repo=design-resources-for-developers&show_owner=true)](https://github.com/bradtraversy/design-resources-for-developers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kahramanumut&repo=English-Word-Reminder&show_owner=true)](https://github.com/kahramanumut/English-Word-Reminder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aycanogut&repo=front-end-resources&show_owner=true)](https://github.com/aycanogut/front-end-resources)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devnots&repo=devnots-backend&show_owner=true)](github.com/devnots/devnots-backend/)
 
 <!--
 LINKS
