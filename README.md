@@ -24,9 +24,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kahramanumut&repo=English-Word-Reminder&show_owner=true)](https://github.com/kahramanumut/English-Word-Reminder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aycanogut&repo=front-end-resources&show_owner=true)](https://github.com/aycanogut/front-end-resources)
 
-  <img src= "https://gpvc.arturio.dev/abdullahoztuurkk" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
-</details>
-
 
 <!--
 LINKS
