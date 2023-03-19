@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm Abdullah Öztürk</h3>
 
-- 🔭 I’m currently working at [ParamTech][company]
+- 🔭 I’m currently working on [Micro E-Commerce Project][project]
 
 - 📝 I regularly write articles on [Medium][medium]
 
@@ -32,4 +32,4 @@ LINKS
 [linkedin]: https://www.linkedin.com/in/abdullah-ozturk
 [medium]:   https://abdullahozturkk.medium.com/
 [twitter]: https://twitter.com/AbdullahOztuurk
-[company]: https://tr.linkedin.com/company/paramtech
+[project]: https://github.com/AbdullahOztuurkk/micro-e-commerce
